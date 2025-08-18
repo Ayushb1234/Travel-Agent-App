@@ -1,7 +1,3 @@
-# Travel-Agent-App
-A tour and travel planner which is made up of multiple agents doing specific works and manage your tour within limit of your budget.
-
-
 # 🌍 Multi-Agent Travel Planner
 
 AI-powered **Travel Planning App** that generates personalized itineraries, optimizes budgets, and provides hotel & activity recommendations using **multi-agent collaboration**.  
@@ -113,10 +109,15 @@ During development, several issues were encountered:
 ---------------------------
 
 🧭 Full Interactive Map Integration (Leaflet/Mapbox with hotel markers).
+
 🤝 Collaboration Mode – Plan trips with friends in real-time.
+
 📱 Mobile App (React Native/Expo) version.
+
 🌐 Multi-Language Support for global users.
+
 📊 Advanced Analytics – Recommend best travel seasons, activities, and costs.
+
 ☁️ Cloud Deployment with CI/CD (Docker, AWS/GCP).
 
 🤝 Contributing
