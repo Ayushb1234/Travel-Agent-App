@@ -97,10 +97,15 @@ Problems & Failures Faced
 During development, several issues were encountered:
 
 ❌ Environment Variables Not Loading – Fixed by adding .env and using VITE_ prefix for frontend.
+
 ❌ CORS Errors – Resolved by enabling CORS middleware in FastAPI backend.
+
 ❌ Map API Key Issues – Required creating a free MapTiler key and configuring correctly.
+
 ❌ Frontend Alignment – Hero section & navbar required redesign for clean UX.
+
 ❌ Budget Calculations – Initially inconsistent; fixed by normalizing per-day and per-person logic.
+
 ❌ Error Handling in API – Backend errors returned raw logs; added structured error messages.
 
 
