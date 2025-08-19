@@ -48,14 +48,14 @@ Built with a modern **React + TypeScript frontend** and a **FastAPI backend**, t
 
 ### 1️⃣ Clone the Repo
 ```bash
-git clone https://github.com/your-username/multi-agent-travel-planner.git
-cd multi-agent-travel-planner
+git clone https://github.com/Ayushb1234/Travel-agent-app.git
+cd Travel-Agent-app
 ```
 
 
 2️⃣ Backend Setup (FastAPI)
 ```bash
-cd Travel_planner_backend
+cd Travel_planner_
 pip install -r requirements.txt
 uvicorn main:app --reload --port 8000
 ```
@@ -67,9 +67,6 @@ npm install
 npm run dev
 ```
 
-The app will be available at:
-👉 Frontend: http://localhost:5173
-👉 Backend API: http://localhost:8000
 
 
 📸 Screenshots & Demo
@@ -78,13 +75,15 @@ The app will be available at:
 Replace with your own screenshots later.
 
 Landing Page:
+<img width="1902" height="762" alt="image" src="https://github.com/user-attachments/assets/0f225a99-53a6-4551-9798-6c0be1e92e42" />
+<img width="1139" height="866" alt="image" src="https://github.com/user-attachments/assets/e7e13551-a73b-4328-9ad4-96f65eb710ec" />
+<img width="974" height="499" alt="image" src="https://github.com/user-attachments/assets/4ba5b615-5ed8-4323-9c6f-edf31c567241" />
+<img width="961" height="638" alt="image" src="https://github.com/user-attachments/assets/29f2819e-ba97-491c-9cd5-c69440943cae" />
 
 
-Planner UI:
+🎥 Demo Video: https://drive.google.com/file/d/1NsiTKFo6JeVdzGDuhpMLTWXeBU5PXiT-/view?usp=sharing
 
-
-🎥 Demo Video: [YouTube link here]
-🌐 Live Deployment: [Deployed App Link here]
+🌐 Live Deployment: Soon to be uploaded...
 
 
 Problems & Failures Faced
